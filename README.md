@@ -17,3 +17,7 @@
 │                         generated with `pip freeze > requirements.txt`
 │
 ├── src                <- Source code for use in this project.
+
+
+Requirment text
+pip install -r requirements.txt
